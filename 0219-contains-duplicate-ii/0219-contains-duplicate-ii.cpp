@@ -5,18 +5,10 @@ public:
 
         for(int i = 0; i < nums.size(); i++) {
 
-            if(mp.find(nums[i]) == mp.end()) {
-                mp[nums[i]] = i;
-            }
-            else {
-                int idx = mp[nums[i]];
+            if(mp.count(nums[i]) && i - mp[nums[i]] <= k)
+                return true;
 
-                if(i - idx <= k) {
-                    return true;
-                }
-
-                mp[nums[i]] = i;
-            }
+            mp[nums[i]] = i;
         }
 
         return false;
