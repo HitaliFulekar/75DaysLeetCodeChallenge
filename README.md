@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
+| [0149-max-points-on-a-line](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0149-max-points-on-a-line) |
 ## Hash Table
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
+| [0149-max-points-on-a-line](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0149-max-points-on-a-line) |
 ## Matrix
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
+| [0149-max-points-on-a-line](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0172-factorial-trailing-zeroes) |
 ## Binary Search
 |  |
@@ -44,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
