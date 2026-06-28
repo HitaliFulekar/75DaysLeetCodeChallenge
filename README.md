@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0067-add-binary](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 ## Backtracking
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0172-factorial-trailing-zeroes) |
@@ -51,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0149-max-points-on-a-line) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
