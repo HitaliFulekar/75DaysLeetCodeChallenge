@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0172-factorial-trailing-zeroes) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Divide and Conquer
 |  |
 | ------- |
