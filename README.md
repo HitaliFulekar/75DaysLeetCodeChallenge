@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 ## Greedy
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
