@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
+| [0057-insert-interval](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
