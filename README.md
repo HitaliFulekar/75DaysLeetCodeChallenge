@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0149-max-points-on-a-line](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0149-max-points-on-a-line) |
 ## Matrix
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 ## Backtracking
 |  |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Dynamic Programming
 |  |
