@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0149-max-points-on-a-line) |
+| [0289-game-of-life](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0289-game-of-life) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 ## Hash Table
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0289-game-of-life) |
 ## String
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
+| [0289-game-of-life](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0289-game-of-life) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Divide and Conquer
 |  |
