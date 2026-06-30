@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0149-max-points-on-a-line) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 ## Dynamic Programming
 |  |
 | ------- |
