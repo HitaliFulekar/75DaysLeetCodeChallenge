@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0137-single-number-ii) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0149-max-points-on-a-line) |
 ## Matrix
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0190-reverse-bits](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 ## Greedy
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -147,5 +151,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
