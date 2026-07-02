@@ -31,13 +31,11 @@ public:
     }
 
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
-        int n = inorder.size();
-
-        for (int i = 0; i < n; i++)
+        for (int i = 0; i < inorder.size(); i++)
             mp[inorder[i]] = i;
 
-        postIndex = n - 1;
+        postIndex = postorder.size() - 1;
 
-        return build(inorder, postorder, 0, n - 1);
+        return build(inorder, postorder, 0, inorder.size() - 1);
     }
 };
