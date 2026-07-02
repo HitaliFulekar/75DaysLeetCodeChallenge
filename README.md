@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
+| [0394-decode-string](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 ## Geometry
 |  |
 | ------- |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/HitaliFulekar/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
